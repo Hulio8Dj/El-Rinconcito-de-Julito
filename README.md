@@ -17,7 +17,7 @@
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/Redondo87/TFG/risas-sabores.git
+   git clone https://github.com/Hulio8Dj/El-Rinconcito-de-Julito/tree/main/TFG-main
    
 2. **Instalar dependencias**
 
